@@ -1,1 +1,2 @@
 # music-plus
+Developed a full-stack web application replicating Spotify's core features using MongoDB, Express, React, and Node.js (MERN). Implemented user authentication, music search functionality, playlist creation, and real-time audio streaming. Integrated third-party APIs to fetch music data and designed a responsive, intuitive UI for seamless user experience across devices. Optimized backend services for efficient data retrieval and enhanced audio streaming performance.
